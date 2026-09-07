@@ -25,3 +25,7 @@ open_near_click = true
 [[service]]
 id = "mirror-service"
 entry = "service.luau"
+
+[[shortcut]]
+id = "toggle"
+entry = "shortcut.luau"
